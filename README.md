@@ -29,6 +29,12 @@ Here it is holding 20lbs
 
 I included a small "test body", so you don't need to print a whole toolhead to test the clips.
 
+Important slicer settings:
+
+- Perimeters: 3+
+- Perimeter width: 0.45mm
+- External perimieter width: 0.4mm
+
 Print the STLs, install a belt and see if you can pull it out!
 
 ## FAQ
@@ -57,6 +63,8 @@ The mount is strong enough with just three teeth, but I decided on five teeth fo
 Make sure the belt is inserted deep enough to engage all five teeth. It might help to mark the belt so you know when you've inserted it to the right depth.
 
 If it still doesn't hold, try printing the clips at a slightly larger scale.
+
+Also, make sure your wall
 
 **Does it hold up over time?**
 
