@@ -39,18 +39,18 @@ Print the STLs, install a belt and see if you can pull it out!
 
 ## FAQ
 
-**How does it work?**
+### How does it work?
 
 The belt teeth sit in grooves on the inside of the toolhead. Since the belt must first move in the X direction (backing out of the grooves) before it can move in the Y direction (sliding out of the slot), we simply occupy the space behind the belt to keep it in the grooves.
 
 ![Horizontal cross section](img/cross-section-horizontal.png)
 ![Vertical cross section](img/cross-section-vertical.png)
 
-**Can I use this in my toolhead?**
+### Can I use this in my toolhead?
 
 Please do! Send me a link so I can check it out.
 
-**Why these specific dimensions?**
+### Why these specific dimensions?
 
 The arms are wide enough for three full walls. This seemed to be the happy medium for flexiibility and durability.
 
@@ -58,15 +58,13 @@ The arms are wide enough for three full walls. This seemed to be the happy mediu
 
 The mount is strong enough with just three teeth, but I decided on five teeth for extra reliability.
 
-**The mounts failed and my belt came out!**
+### The mounts failed and my belt came out!
 
 Make sure the belt is inserted deep enough to engage all five teeth. It might help to mark the belt so you know when you've inserted it to the right depth.
 
 If it still doesn't hold, try printing the clips at a slightly larger scale.
 
-Also, make sure your wall
-
-**Does it hold up over time?**
+### Does it hold up over time?
 
 Great question! I've had zero failures so far, but I sadly don't have much printing time with them because I'm always taking my printer apart to test new things. Please share your results if you decide to use this method.
 
